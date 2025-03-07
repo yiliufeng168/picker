@@ -132,6 +132,8 @@ issue需要通过标签管理, 所以需要先创建`daily`与`dailypick`标签.
 
 可以配置两个不同的钉钉机器人, 也可以只配置一个, 如果只有一个所有消息均通过同一个机器人推送.
 
+在Github,仓库的设置中找到'Actions'->'General'->"Workflow permisions" 修改为读写权限。
+
 ### 本地搭建
 需要在本地安装 github-cli ,并登录.
 
