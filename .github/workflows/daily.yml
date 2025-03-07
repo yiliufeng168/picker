@@ -43,6 +43,7 @@ jobs:
 
       - name: Commit
         run: |
+          git pull
           git diff
           git config --global user.email ylf@yiliufeng.net
           git config --global user.name yiliufeng
