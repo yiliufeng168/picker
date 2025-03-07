@@ -49,14 +49,11 @@
 	<outline text="evi0s' Blog" title="evi0s' Blog" description="" type="rss" version="RSS" htmlUrl="https://evi0s.com/" xmlUrl="https://evi0s.com/feed/"/>
 	<outline text="Evi1cg's blog" title="Evi1cg's blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://evi1cg.me/atom.xml"/>
 	<outline text="EVILCOS" title="EVILCOS" description="" type="rss" version="RSS" htmlUrl="https://evilcos.me/" xmlUrl="http://evilcos.me/?feed=rss2"/>
-	<outline text="evoA" title="evoA" description="" type="rss" version="RSS" htmlUrl="https://evoa.me/" xmlUrl="https://evoa.me/index.php/feed/"/>
 	<outline text="Fooying" title="Fooying" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.fooying.com/atom.xml"/>
 	<outline text="GUYA.NET" title="GUYA.NET" description="" type="rss" version="RSS" htmlUrl="http://blog.guya.net/" xmlUrl="http://blog.guya.net/feed"/>
-	<outline text="h3h3da's Blog" title="h3h3da's Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://blog.rookiehacker.org/atom.xml"/>
 	<outline text="Hacking Articles" title="Hacking Articles" description="" type="rss" version="RSS" htmlUrl="https://www.hackingarticles.in/" xmlUrl="https://www.hackingarticles.in/feed/"/>
 	<outline text="hackndo" title="hackndo" description="" type="rss" version="RSS" htmlUrl="https://en.hackndo.com/" xmlUrl="https://en.hackndo.com/feed.xml"/>
 	<outline text="Hc1m1" title="Hc1m1" description="" type="rss" version="RSS" htmlUrl="https://nobb.site/" xmlUrl="https://nobb.site/rss.xml"/>
-	<outline text="Imagin's Blog" title="Imagin's Blog" description="" type="rss" version="RSS" htmlUrl="https://imagin.vip/" xmlUrl="https://imagin.vip/?feed=rss2"/>
 	<outline text="K0rz3n's Blog" title="K0rz3n's Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.k0rz3n.com/atom.xml"/>
 	<outline text="Kaibro's blog" title="Kaibro's blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://blog.kaibro.tw/atom.xml"/>
 	<outline text="KINGX" title="KINGX" description="" type="rss" version="RSS" htmlUrl="https://kingx.me/" xmlUrl="https://kingx.me/feed.xml"/>
@@ -73,8 +70,6 @@
 		<outline text="Doonsec's feed" title="Doonsec's feed" description="" type="rss" version="RSS" htmlUrl="http://wechat.doonsec.com/rss" xmlUrl="https://wechat.doonsec.com/rss.xml"/>
 		<outline text="RcoIl的窝" title="RcoIl的窝" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://rcoil.me/atom.xml"/>
 		<outline text="rickgray.me" title="rickgray.me" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://rickgray.me/atom.xml"/>
-		<outline text="riusksk's blog" title="riusksk's blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://riusksk.me/atom.xml"/>
-		<outline text="root@cyberworld:~# Noah Lab" title="root@cyberworld:~# Noah Lab" description="" type="rss" version="RSS" htmlUrl="http://noahblog.360.cn/" xmlUrl="http://noahblog.360.cn/rss/"/>
 		<outline text="Ruilin" title="Ruilin" description="" type="rss" version="RSS" htmlUrl="http://rui0.cn/" xmlUrl="http://rui0.cn/feed"/>
 		<outline text="S3cur3Th1sSh1t" title="S3cur3Th1sSh1t" description="" type="rss" version="RSS" htmlUrl="https://s3cur3th1ssh1t.github.io/" xmlUrl="https://s3cur3th1ssh1t.github.io/feed.xml"/>
 		<outline text="Sakuraのblog" title="Sakuraのblog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://eternalsakura13.com/atom.xml"/>
