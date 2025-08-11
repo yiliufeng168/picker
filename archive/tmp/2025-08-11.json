@@ -1,0 +1,143 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-08-10 Review": "http://www.sec-wiki.com/?2025-08-10"
+    },
+    "Reusable Security": {
+        "OMEN Improvements": "https://reusablesec.blogspot.com/2025/08/omen-improvements.html"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Pandora ITSM Authenticated Command Injection": "https://cxsecurity.com/issue/WLB-2025080007"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Loop of Doom: How a Recursive Redirect Opened the Gates to Session Hijacking ♻️": "https://infosecwriteups.com/loop-of-doom-how-a-recursive-redirect-opened-the-gates-to-session-hijacking-%EF%B8%8F-705417f3e741?source=rss----7b722bfd1b8d---4",
+        "$10,000 Google Bug Bounty: How a Deserialization RCE in AppSheet Could Have Led to Remote Code…": "https://infosecwriteups.com/10-000-google-bug-bounty-how-a-deserialization-rce-in-appsheet-could-have-led-to-remote-code-955b0a2e840b?source=rss----7b722bfd1b8d---4",
+        "Masked Menace: How a Fake OAuth App and a Loose GraphQL Endpoint Stole the Real Keys": "https://infosecwriteups.com/masked-menace-how-a-fake-oauth-app-and-a-loose-graphql-endpoint-stole-the-real-keys-cec06ed964cd?source=rss----7b722bfd1b8d---4",
+        "“Day 6: RCE — How I Hacked a Bank Using a Forgotten Excel File”": "https://infosecwriteups.com/day-6-rce-how-i-hacked-a-bank-using-a-forgotten-excel-file-e0eb14758136?source=rss----7b722bfd1b8d---4",
+        "A Deep Dive into a Potential Privilege Escalation Issue": "https://infosecwriteups.com/a-deep-dive-into-a-potential-privilege-escalation-issue-313a6040d458?source=rss----7b722bfd1b8d---4",
+        "Cyber Threat Intelligence: Building Your Feed": "https://infosecwriteups.com/cyber-threat-intelligence-building-your-feed-5faed84512b4?source=rss----7b722bfd1b8d---4",
+        "The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?": "https://infosecwriteups.com/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss----7b722bfd1b8d---4",
+        "Customer Transaction PII Data Exposed via Google Dorking": "https://infosecwriteups.com/third-party-google-dorking-e90c2126a3dc?source=rss----7b722bfd1b8d---4",
+        "HTB Dog Walkthrough": "https://infosecwriteups.com/htb-dog-walkthrough-2d840513f463?source=rss----7b722bfd1b8d---4",
+        "From 20% to 5%: How Modern ZFS Changed the Free Space Debate": "https://infosecwriteups.com/from-20-to-5-how-modern-zfs-changed-the-free-space-debate-dd04697b7932?source=rss----7b722bfd1b8d---4"
+    },
+    "Data Breach": {
+        "Google confirms Salesforce CRM breach, faces extortion threat": "https://securityaffairs.com/181017/data-breach/google-confirms-salesforce-crm-breach-faces-extortion-threat.html"
+    },
+    "HackerNoon": {
+        "MCP vs A2A - A Complete Deep Dive": "https://hackernoon.com/mcp-vs-a2a-a-complete-deep-dive?source=rss",
+        "Optimizing LLM Performance with LM Cache: Architectures, Strategies, and Real-World Applications": "https://hackernoon.com/optimizing-llm-performance-with-lm-cache-architectures-strategies-and-real-world-applications?source=rss",
+        "The HackerNoon Newsletter: Agentic AI and the Rise of Outcome Engineering (8/10/2025)": "https://hackernoon.com/8-10-2025-newsletter?source=rss",
+        "The Great Quantum Mirage: Why We're Solving Tomorrow's Problem While Missing Today's Crisis": "https://hackernoon.com/the-great-quantum-mirage-why-were-solving-tomorrows-problem-while-missing-todays-crisis?source=rss",
+        "The TechBeat: Navigating MySQL Data Types: Sets and Enums (8/10/2025)": "https://hackernoon.com/8-10-2025-techbeat?source=rss",
+        "3 Ways to Easily Visualize Keras Machine Learning Models": "https://hackernoon.com/3-ways-to-easily-visualize-keras-machine-learning-models?source=rss"
+    },
+    "Hacking Dream": {
+        "AI Jailbreak Techniques: A Red Team Playbook (2025)": "https://www.hackingdream.net/2025/08/ai-jailbreak-techniques-red-team-playbook.html"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Masked Menace: How a Fake OAuth App and a Loose GraphQL Endpoint Stole the Real Keys": "https://infosecwriteups.com/masked-menace-how-a-fake-oauth-app-and-a-loose-graphql-endpoint-stole-the-real-keys-cec06ed964cd?source=rss----7b722bfd1b8d--bug_bounty",
+        "“Day 6: RCE — How I Hacked a Bank Using a Forgotten Excel File”": "https://infosecwriteups.com/day-6-rce-how-i-hacked-a-bank-using-a-forgotten-excel-file-e0eb14758136?source=rss----7b722bfd1b8d--bug_bounty",
+        "A Deep Dive into a Potential Privilege Escalation Issue": "https://infosecwriteups.com/a-deep-dive-into-a-potential-privilege-escalation-issue-313a6040d458?source=rss----7b722bfd1b8d--bug_bounty",
+        "The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?": "https://infosecwriteups.com/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss----7b722bfd1b8d--bug_bounty",
+        "Customer Transaction PII Data Exposed via Google Dorking": "https://infosecwriteups.com/third-party-google-dorking-e90c2126a3dc?source=rss----7b722bfd1b8d--bug_bounty",
+        "Day4 Recon: Hunting Hidden Attack Surfaces , using Nmap, Masscan & Dirsearch for Service &…": "https://infosecwriteups.com/day4-recon-hunting-hidden-attack-surfaces-using-nmap-masscan-dirsearch-for-service-c623de2fcdf6?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "安全加固的 Android 社区发行版 Graphene OS": "https://www.solidot.org/story?sid=82004",
+        "Debian 13 trixie 释出": "https://www.solidot.org/story?sid=82003"
+    },
+    "威努特安全网络": {
+        "冻结I/O：基于VSS实现零数据丢失备份": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651134698&idx=1&sn=dcee587408c2f41e470c5a153b754302"
+    },
+    "我的安全视界观": {
+        "SDL 81/100问：如何快速应急开源组件漏洞，比如fastjson？": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4"
+    },
+    "天黑说嘿话": {
+        "Gophish-钓鱼使用指南": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484558&idx=1&sn=ca62a04441d09ba34a5eb418b0c66446"
+    },
+    "奇安信威胁情报中心": {
+        "独家观察：美国如何给芯片安“后门”": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515563&idx=1&sn=18f7b85025523606726c4c9087595489"
+    },
+    "安全圈": {
+        "【安全圈】沉浸式翻译曝重大数据安全事件：用户敏感快照遭公开索引，商业合同与私钥外泄": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=1&sn=fdfd5cc5dc78faa234261c98b07bf084",
+        "【安全圈】全球最大假药网络曝光：超5000个虚假药房网站售卖伪劣药品": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=2&sn=aaf90d76599492ed78b0ef1adb59dddf",
+        "【安全圈】全球超120万医疗设备暴露于互联网，患者隐私面临严重威胁": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=3&sn=136d1c795f55b582d3752540a164e845",
+        "【安全圈】联想部分摄像头曝可远程变身BadUSB：可注入恶意指令、持久感染系统": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=4&sn=356dc67df87adf99594b3cf6eda08b48"
+    },
+    "极客公园": {
+        "GPT-5 发布后遭用户吐槽，GPT-4o 重新上线；苹果创五年多来最大单周涨幅；暑期档电影总票房破 80 亿元｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653084492&idx=1&sn=c5a41ad06320486f9b23ea552acdc108"
+    },
+    "dotNet安全矩阵": {
+        ".NET内网实战：解密自定义的 3DES 数据库字符串": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=1&sn=a35358af8e1876c90f76321a674d45bc",
+        ".NET 安全攻防知识交流社区": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=2&sn=2123bf87f1137124fc94489cf137c13d",
+        ".NET 2025 年第 84 期实战工具库和资源汇总": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=3&sn=24ba086a77655c27d9b33c18f3ba96c8"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【情报机构】巴基斯坦三军情报局（ISI）结构、职能、领导和运作分析": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151484&idx=1&sn=b95493402b4d95f618941806e164e751",
+        "【通知】第三届全国大学生开源情报数据采集与分析大赛开始报名啦！提供免费培训": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151484&idx=2&sn=281b21d4ccfa758ae83dc863b641f826"
+    },
+    "专注APT攻击与防御": {
+        "第九章——原始数据的防护之基：业务数据化阶段的数据安全建设": "https://micropoor.blogspot.com/2025/08/blog-post_10.html"
+    },
+    "吴鲁加": {
+        "精简打卡项": "https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485676&idx=1&sn=6088c0b5cf0b2b123908c7133c6adac2"
+    },
+    "中国信息安全": {
+        "2025第四届北外滩网络安全论坛日程安排发布": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247324&idx=1&sn=e09d2ca7ccad65045f550e79dd814989"
+    },
+    "极道": {
+        "幽默：GPT-5声称人类程序员才是真正的Bug": "https://www.jdon.com/80958.html",
+        "大神吐槽：AI过度思考成灾，一句提示竟写成史记": "https://www.jdon.com/80957.html",
+        "幽默图对比：GPT 4o与GPT5前后竟然判若两人": "https://www.jdon.com/80956.html"
+    },
+    "Nicksxs's Blog": {
+        "介绍一批比较不错的n8n模板": "https://nicksxs.me/2025/08/10/%E4%BB%8B%E7%BB%8D%E4%B8%80%E6%89%B9%E6%AF%94%E8%BE%83%E4%B8%8D%E9%94%99%E7%9A%84n8n%E6%A8%A1%E6%9D%BF/"
+    },
+    "KAIX.IN": {
+        "拒绝预制菜": "https://kaix.in/2025/0810-pre-made/"
+    },
+    "素生": {
+        "Toots 2025 Aug.3 - Aug.9": "http://z.arlmy.me/posts/MastodonArchives/2025/MastodonTootsArchives_20250809/",
+        "入蜀记 70 彭州葛仙山细沙梨": "http://z.arlmy.me/posts/BBBPandINSW/INSW/INSW_70/"
+    },
+    "Yiran's Blog": {
+        "Weekly Issue-灰色的内衣": "https://zdyxry.github.io/2025/08/10/Weekly-Issue-%E7%81%B0%E8%89%B2%E7%9A%84%E5%86%85%E8%A1%A3/"
+    },
+    "61’s life": {
+        "20250810": "https://61.life/2025/0810"
+    },
+    "Wulu's Blog": {
+        "使用 Docker 在树莓派上安装 Moritx 下载工具": "https://wulu.zone/posts/motrix-arm64-vnc"
+    },
+    "木遥的窗子": {
+        "坐照": "https://blog.farmostwood.net/1268.html"
+    },
+    "文艺数学君": {
+        "北邮人论坛十大_2025_08_10": "https://mathpretty.com/19889.html"
+    },
+    "游研社": {
+        "库洛正在补齐广州的二次元版图": "https://www.yystv.cn/p/13100",
+        "我没想到，还真有人因为打游戏连败去告游戏公司": "https://www.yystv.cn/p/13099"
+    },
+    "瓦解的生活记事": {
+        "我在用什么浏览器翻译插件？": "https://hin.cool/posts/chrometrans.html"
+    },
+    "拾月": {
+        "25W31：十六的月亮": "https://www.skyue.com/25081107.html"
+    },
+    "一叶斋": {
+        "东京独自旅行游记": "https://xieguanglei.github.io/blog/2025-08-10/dong-jing-du-zi-lv-xing-you-ji"
+    },
+    "Elmagnifico's Blog": {
+        "2025新主机": "https://elmagnifico.tech/2025/08/11/BTF-Motherboard/"
+    },
+    "如鱼饮水": {
+        "2025 年 CWMI 的几何题的解答（一）": "https://wangjiezhe.com/posts/2025-08-10-2025-CWMI-Geometry-1/"
+    },
+    "林海草原": {
+        "关于《半生纪》": "https://lhcy.org/archives/guan-yu-ban-sheng-ji.html"
+    },
+    "竹林里有冰的博客": {
+        "DNS 解析时长毁了我精心设计的图床网络架构": "https://zhul.in/2025/08/11/dns-resolve-time-destroyed-my-optimization-for-pic-cdn/"
+    }
+}
