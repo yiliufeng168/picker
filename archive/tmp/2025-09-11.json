@@ -1,0 +1,324 @@
+{
+    "paper - Last paper": {
+        "智能体网络：利用人工智能智能体构建下一代网络": "https://paper.seebug.org/3384/"
+    },
+    "奇安信攻防社区": {
+        "攻防渗透集锦JS泄露突破多个后台": "https://forum.butian.net/share/4538"
+    },
+    "Taxodium": {
+        "我的博客设计": "https://taxodium.ink/my-blog-design.html"
+    },
+    "Trustwave Blog": {
+        "Not All Cyberattacks Begin with a Phishing Attack, Hack or Exploited Vulnerability": "https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/not-all-cyberattacks-begin-with-a-phishing-attack-hack-or-exploited-vulnerability/"
+    },
+    "GuidePoint Security": {
+        "GuidePoint Security and CrowdStrike: Turning Partnership into Impact": "https://www.guidepointsecurity.com/blog/guidepoint-security-and-crowdstrike-turning-partnership-into-impact/",
+        "Unlock Cybersecurity Transformation with Microsoft ECIF and GuidePoint Security": "https://www.guidepointsecurity.com/blog/microsoft-ecif-cybersecurity-transformation/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "INITCMS v6.2.17 - Stored Cross-Site Scripting": "https://cxsecurity.com/issue/WLB-2025090005",
+        "Sales Syntax CMS - Stored Cross-Site Scripting": "https://cxsecurity.com/issue/WLB-2025090004"
+    },
+    "Tenable Blog": {
+        "Shift from Reactive to Proactive: Leveraging Tenable Exposure Management for MSSP Success": "https://www.tenable.com/blog/shift-from-reactive-to-proactive-leveraging-tenable-exposure-management-for-mssp-success",
+        "New Tenable Report: How Complexity and Weak AI Security Put Cloud Environments at Risk": "https://www.tenable.com/blog/new-tenable-report-how-insecure-identities-and-weak-ai-security-put-cloud-environments-at-risk"
+    },
+    "安全客-有思想的安全新媒体": {
+        "Salat Stealer通过复杂C2基础设施窃取浏览器凭证": "https://www.anquanke.com/post/id/312036",
+        "新型网络攻击滥用DeskSoft软件部署恶意软件，利用RDP访问执行命令": "https://www.anquanke.com/post/id/312045",
+        "超越高通和博通：苹果内部芯片接管iPhone连接": "https://www.anquanke.com/post/id/312029",
+        "英伟达最新收购：这家AI编程初创公司将重塑开发格局": "https://www.anquanke.com/post/id/312024",
+        "西门子SIMATIC虚拟化即服务平台曝严重漏洞（CVE-2025-40804）：网络共享资源无需认证即可访问": "https://www.anquanke.com/post/id/311999",
+        "Sophos修复AP6系列无线接入点严重认证绕过漏洞（CVE-2025-10159）": "https://www.anquanke.com/post/id/312056",
+        "Hiawatha Web服务器曝严重漏洞：可导致身份认证绕过与远程代码执行": "https://www.anquanke.com/post/id/312015",
+        "黑客在供应链攻击中攻陷18个NPM包": "https://www.anquanke.com/post/id/312026",
+        "安全防御总“失守”？360大情报告诉你答案": "https://www.anquanke.com/post/id/312042",
+        "新型恶意软件家族正劫持暴露的Docker API": "https://www.anquanke.com/post/id/312005"
+    },
+    "InfoSec Write-ups - Medium": {
+        "DeepProbe: Open-Source Memory Forensics with ATT&CK-Mapped Detections": "https://infosecwriteups.com/deepprobe-open-source-memory-forensics-with-att-ck-mapped-detections-a1acb663de39?source=rss----7b722bfd1b8d---4",
+        "This Silent Attack Can Hijack Any Website You Trust-Here’s How It Works": "https://infosecwriteups.com/this-silent-attack-can-hijack-any-website-you-trust-heres-how-it-works-48f99fda2ef6?source=rss----7b722bfd1b8d---4",
+        "Beyond CVE: Crafting a Comprehensive Vulnerability Intelligence Strategy for Modern Security Teams": "https://infosecwriteups.com/beyond-cve-crafting-a-comprehensive-vulnerability-intelligence-strategy-for-modern-security-teams-2a98275cca18?source=rss----7b722bfd1b8d---4",
+        "How I Found an Exposed User Database via an Unprotected API (And How to Prevent It) in a private…": "https://infosecwriteups.com/how-i-found-an-exposed-user-database-via-an-unprotected-api-and-how-to-prevent-it-in-a-private-77dd95a1101c?source=rss----7b722bfd1b8d---4",
+        "How i found first account takeover, reported and got the bounty in same day and in same hour.": "https://infosecwriteups.com/bismillah-hir-rahman-nir-raheem-9adef82e9718?source=rss----7b722bfd1b8d---4",
+        "A very easy bug anyone can find and ignored by many bug bounty hunters": "https://infosecwriteups.com/a-very-easy-bug-anyone-can-find-8d2b11a768c7?source=rss----7b722bfd1b8d---4",
+        "IDOR: How I Could Delete Any Product Image on an E-Commerce Platform": "https://infosecwriteups.com/idor-how-i-could-delete-any-product-image-on-an-e-commerce-platform-8998453a50ea?source=rss----7b722bfd1b8d---4",
+        "(My)Reasons Why I failed OSCP: Do Not Make Same Mistakes": "https://infosecwriteups.com/my-reasons-why-i-failed-oscp-do-not-make-same-mistakes-b8c1fc26f194?source=rss----7b722bfd1b8d---4",
+        "How I Turned a $4 Microcontroller into a Rubber Ducky": "https://infosecwriteups.com/how-i-turned-a-4-microcontroller-into-a-rubber-ducky-65abb8c083bb?source=rss----7b722bfd1b8d---4",
+        "✈️ I Tried Hacking a Flight Booking API — Here’s What I Found (or Didn’t )": "https://infosecwriteups.com/%EF%B8%8F-i-tried-hacking-a-flight-booking-api-heres-what-i-found-or-didn-t-bc4391b57d41?source=rss----7b722bfd1b8d---4"
+    },
+    "SecWiki News": {
+        "SecWiki News 2025-09-10 Review": "http://www.sec-wiki.com/?2025-09-10"
+    },
+    "HackerNoon": {
+        "Re: Defeating Nondeterminism in LLM Inference, The Future is Predictable": "https://hackernoon.com/re-defeating-nondeterminism-in-llm-inference-the-future-is-predictable?source=rss",
+        "Kikimora Announces Launch of Kikimora Agent: Accessible AI-Powered Cybersecurity Platform For SME": "https://hackernoon.com/kikimora-announces-launch-of-kikimora-agent-accessible-ai-powered-cybersecurity-platform-for-sme?source=rss",
+        "Origin Summit Unveils Second Wave Of Global Icons Ahead Of Debut During KBW": "https://hackernoon.com/origin-summit-unveils-second-wave-of-global-icons-ahead-of-debut-during-kbw?source=rss",
+        "Apex Fusion Strengthens EVM Ecosystem With Nexus And Tenderly Partnership": "https://hackernoon.com/apex-fusion-strengthens-evm-ecosystem-with-nexus-and-tenderly-partnership?source=rss",
+        "Cloudbet Launches TI 2025 Playoff Markets With Xtreme Gaming Priced As Favorites": "https://hackernoon.com/cloudbet-launches-ti-2025-playoff-markets-with-xtreme-gaming-priced-as-favorites?source=rss",
+        "Exploring Enterprise AI: Rishi Kohli on Connecting Strategic Vision with Tangible Value": "https://hackernoon.com/exploring-enterprise-ai-rishi-kohli-on-connecting-strategic-vision-with-tangible-value?source=rss",
+        "How CEO Eric Benz and COO Aleks Nowak Are Redefining Corporate Digital Asset Strategy": "https://hackernoon.com/how-ceo-eric-benz-and-coo-aleks-nowak-are-redefining-corporate-digital-asset-strategy?source=rss",
+        "Financial Adaptability: Parvinder Panjeta on Cross-Industry Strategy": "https://hackernoon.com/financial-adaptability-parvinder-panjeta-on-cross-industry-strategy?source=rss",
+        "How KuCoin's New Platform Opens Bitcoin Mining to Retail Investors: $50,000 Hardware to $10 Contract": "https://hackernoon.com/how-kucoins-new-platform-opens-bitcoin-mining-to-retail-investors-$50000-hardware-to-$10-contract?source=rss",
+        "Falcon Finance Announced $FF And Community Sale On Buidlpad": "https://hackernoon.com/falcon-finance-announced-$ff-and-community-sale-on-buidlpad?source=rss",
+        "Crypto Market and Pepeto": "https://hackernoon.com/crypto-market-and-pepeto?source=rss",
+        "The HackerNoon Newsletter: From Headlines to Digests: How Agents Personalize the Firehose (9/10/2025)": "https://hackernoon.com/9-10-2025-newsletter?source=rss",
+        "Hurry! One Month Left to Win from 15,000 USDT in the Spacecoin Writing Contest": "https://hackernoon.com/hurry-one-month-left-to-win-from-15000-usdt-in-the-spacecoin-writing-contest?source=rss",
+        "Will AI Assist or Replace Humans in the Workplace?": "https://hackernoon.com/will-ai-assist-or-replace-humans-in-the-workplace?source=rss",
+        "JuCoin Evolves To Ju.com - Where Point, Click, Trade Meets Infinite Possibility": "https://hackernoon.com/jucoin-evolves-to-jucom-where-point-click-trade-meets-infinite-possibility?source=rss",
+        "BingX Launches AI Master, The World-First AI Crypto Trading Strategist": "https://hackernoon.com/bingx-launches-ai-master-the-world-first-ai-crypto-trading-strategist?source=rss",
+        "Little Pepe vs Pepeto": "https://hackernoon.com/little-pepe-vs-pepeto?source=rss",
+        "The Evolution of Econometric Modeling: A Guide to Influential Papers on Panel Data": "https://hackernoon.com/the-evolution-of-econometric-modeling-a-guide-to-influential-papers-on-panel-data?source=rss",
+        "Cultural Intelligence as a Core Skill for International Growth": "https://hackernoon.com/cultural-intelligence-as-a-core-skill-for-international-growth?source=rss",
+        "Moonlake Lee's Journey with ADHD and the Role of Technology": "https://hackernoon.com/moonlake-lees-journey-with-adhd-and-the-role-of-technology?source=rss"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "TP-Link确认路由器存在未修复零日漏洞": "https://www.4hou.com/posts/YZ8p",
+        "黑客借助HexStrike-AI工具可快速利用新型漏洞": "https://www.4hou.com/posts/PGyn"
+    },
+    "Hacking Dream": {
+        "Hacking Grafana: A Red Teamer's Complete Guide": "https://www.hackingdream.net/2025/09/hacking-grafana-red-teamers-complete-guide.html",
+        "Hacking Elasticsearch: A Pentester's Playbook for Discovery to RCE": "https://www.hackingdream.net/2025/09/hacking-elasticsearch-pentesters-playbook-for-discovery-to-rce.html"
+    },
+    "darkreading": {
+        "Students Pose Inside Threat to Education Sector": "https://www.darkreading.com/insider-threats/students-inside-threat-education-sector",
+        "Chinese Hackers Allegedly Pose as US Lawmaker": "https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker",
+        "The Quiet Revolution in Kubernetes Security": "https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security",
+        "Dormant macOS Backdoor ChillyHell Resurfaces": "https://www.darkreading.com/endpoint-security/dormant-macos-backdoor-chillyhell-resurfaces",
+        "Southeast Asian Scam Centers Face More Financial Sanctions": "https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions"
+    },
+    "The Trail of Bits Blog": {
+        "How Sui Move rethinks flash loan security": "https://blog.trailofbits.com/2025/09/10/how-sui-move-rethinks-flash-loan-security/"
+    },
+    "Intigriti": {
+        "How should I scope third-party assets in my bug bounty program?": "https://www.intigriti.com/blog/business-insights/how-to-scope-third-party-assets"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "IDOR: How I Could Delete Any Product Image on an E-Commerce Platform": "https://infosecwriteups.com/idor-how-i-could-delete-any-product-image-on-an-e-commerce-platform-8998453a50ea?source=rss----7b722bfd1b8d--bug_bounty",
+        "How I Found an Exposed User Database via an Unprotected API (And How to Prevent It) in a private…": "https://infosecwriteups.com/how-i-found-an-exposed-user-database-via-an-unprotected-api-and-how-to-prevent-it-in-a-private-77dd95a1101c?source=rss----7b722bfd1b8d--bug_bounty",
+        "How i found first account takeover, reported and got the bounty in same day and in same hour.": "https://infosecwriteups.com/bismillah-hir-rahman-nir-raheem-9adef82e9718?source=rss----7b722bfd1b8d--bug_bounty",
+        "A very easy bug anyone can find and ignored by many bug bounty hunters": "https://infosecwriteups.com/a-very-easy-bug-anyone-can-find-8d2b11a768c7?source=rss----7b722bfd1b8d--bug_bounty",
+        "✈️ I Tried Hacking a Flight Booking API — Here’s What I Found (or Didn’t )": "https://infosecwriteups.com/%EF%B8%8F-i-tried-hacking-a-flight-booking-api-heres-what-i-found-or-didn-t-bc4391b57d41?source=rss----7b722bfd1b8d--bug_bounty",
+        "Reflected XSS Vulnerability Bypassing Amazon CloudFront via Safari Browser": "https://infosecwriteups.com/reflected-xss-vulnerability-bypassing-amazon-cloudfront-via-safari-browser-5416b5b64be2?source=rss----7b722bfd1b8d--bug_bounty",
+        "What the Shell?| TryHackMe (THM)": "https://infosecwriteups.com/what-the-shell-tryhackme-thm-248b5d58f128?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Black Hills Information Security, Inc.": {
+        "Microsoft Store and WinGet: Security Risks for Corporate Environments": "https://www.blackhillsinfosec.com/microsoft-store-and-winget-security-risks/"
+    },
+    "HackerNews": {
+        "美国新任网络主管呼吁实现“美国优先”": "https://hackernews.cc/archives/60705",
+        "微软修复81个漏洞，包括两个零日漏洞": "https://hackernews.cc/archives/60710",
+        "科索沃黑客承认运营 BlackDB 网络犯罪市场": "https://hackernews.cc/archives/60699",
+        "LunaLock 勒索软件将窃取的数据喂给大模型 以威胁受害者": "https://hackernews.cc/archives/60706",
+        "Adobe Commerce 漏洞可让黑客接管客户账户": "https://hackernews.cc/archives/60700",
+        "美国指控勒索软件 LockerGoga、MegaCortex 和 Nefilim 的管理员": "https://hackernews.cc/archives/60702"
+    },
+    "锦行科技": {
+        "师恩如塔，山海同明": "https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494331&idx=1&sn=c1fed490a3093ce364f09a47cfbcbb3a"
+    },
+    "Security Blog | Praetorian": {
+        "The Security Time Capsule: Evolving Beyond Legacy Pen Testing": "https://www.praetorian.com/blog/the-security-time-capsule-evolving-beyond-legacy-pen-testing/"
+    },
+    "安全客": {
+        "网络安全岗位大洗牌，AI正在重塑工作与职业路径": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789033&idx=1&sn=b21035a92b0d518ec9915a0cec17f0b4"
+    },
+    "吾爱破解论坛": {
+        "（图作者 | @Aoemax）": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142914&idx=1&sn=561f0ce42b20ed08a584a4d0c59fbb85"
+    },
+    "看雪学苑": {
+        "《进阶逆向工程实战》：解锁逆向技术的全链路实战能力": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599698&idx=1&sn=941e127fafa3f5856065f80f515360cb",
+        "无痕HOOK 检测及对抗": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599698&idx=2&sn=4348a89ada25c0bea146af251ad39949",
+        "BitLocker 曝两提权漏洞，微软紧急打补丁": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599698&idx=3&sn=8c3b091297949a294055db5203184e05"
+    },
+    "安全内参": {
+        "知名车企被黑后停产超一周：每天或损失约5000万元利润 中国工厂亦受影响": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514982&idx=1&sn=7da88be36eecd39101eed5e6ad13b431",
+        "网络安全行业需要更少的产品，更好的产品": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514982&idx=2&sn=e55f2e00285af2e5be9820288a75dfd8"
+    },
+    "代码卫士": {
+        "微软9月补丁星期二值得关注的漏洞": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523980&idx=1&sn=eb82e8a719350c70185abd2a1f39cb79",
+        "Adobe 修复史上最严重的 Magento 漏洞之一": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523980&idx=2&sn=1e726413f895d0c82f9817dde7abb01b"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】飞机、开源情报与大国政治": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151985&idx=1&sn=523f3cb7eac8ce2e29c868754ed2960e"
+    },
+    "漏洞推送": {
+        "如何利用vps远程pull镜像": "https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485732&idx=1&sn=b692f7c90b39c0fe59121ccd738267c6"
+    },
+    "奇安信威胁情报中心": {
+        "JavaScript 生态供应链又一暴击 - 最新 npm 精准投毒搞钱活动详析": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516048&idx=1&sn=d90e7f159231958461f14d282a089d58"
+    },
+    "dotNet安全矩阵": {
+        ".NET内网实战：通过 Windows 系统服务注册表值实现权限维持": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500555&idx=1&sn=bbc208939adb6bad717dda87541ed43f",
+        ".NET 安全攻防知识交流社区": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500555&idx=2&sn=69fbb61fb41d5342c1bc84d1c5e6cc88",
+        "红队视角下的 IIS 资产速查工具 Sharp4WebManager": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500555&idx=3&sn=757a68b86d16082acc6ac972ea9a03bb"
+    },
+    "DataCon大数据安全分析竞赛": {
+        "今日|宜感恩，师恩绵长，桃李芬芳！": "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489359&idx=1&sn=dfb3daf43291b67f748f03231111fa91"
+    },
+    "中国信息安全": {
+        "CNNVD | 关于社会机构未经授权提供CNNVD证书获取服务的声明": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664248752&idx=1&sn=d986cb26083b8424866e7f77028fe78e",
+        "关注 | 国家网信办持续深入整治违规开展互联网新闻信息服务乱象": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664248752&idx=2&sn=baab3294b7677413f29a2c3af9cee5b1",
+        "《2025数据安全产业金融应用生态全景图》调研启动": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664248752&idx=3&sn=fde1dab8c62eea96ab0f0cf001419809",
+        "聚焦 | 外滩大会AI科创赛三赛道冠军诞生，全球近2万人、8000支队伍参赛": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664248752&idx=4&sn=20678b579e0bc1d2158a4c6cccf8da7b"
+    },
+    "数世咨询": {
+        "日益加剧的压力：CISO被要求对安全事件保持沉默": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540237&idx=1&sn=b6f71eaf4b62bc973ad56fc1e944c665"
+    },
+    "ChaMd5安全团队": {
+        "智能网联时代，汽车工程师如何构建“攻防兼备” 的安全系统？文末送书": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247513438&idx=1&sn=777d00ccd5d5e3b0bc7bf60d68afd5d8"
+    },
+    "安全学术圈": {
+        "新加坡科技工程有限公司 | 加密恶意流量特征挖掘研究": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493726&idx=1&sn=3d3a2e1a23b20c9a5917381ba601763b"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "任天堂获得召唤物并让召唤物战斗的美国专利": "https://www.solidot.org/story?sid=82274",
+        "天文学家在棕矮星发现硅烷": "https://www.solidot.org/story?sid=82273",
+        "早期宇宙磁场强度与人脑神经元相当": "https://www.solidot.org/story?sid=82272",
+        "美国股市不再有超额收益": "https://www.solidot.org/story?sid=82271",
+        "巴基斯坦的大规模监控系统": "https://www.solidot.org/story?sid=82270",
+        "微软强制执行重返办公室政策": "https://www.solidot.org/story?sid=82269",
+        "苹果发布 iPhone 17 系列手机，推出超薄型号 iPhone Air": "https://www.solidot.org/story?sid=82268"
+    },
+    "极客公园": {
+        "为了网罗 AI 创新者，上海搞了场万人科创大赛": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086397&idx=1&sn=4ec86a1b552f106c629a9b8daf775a6d",
+        "5999 元起，苹果发布eSIM、超薄 iPhone；王腾再辟谣离职原因谣言；反恶性补贴，主要外卖平台被约谈｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086345&idx=1&sn=637605ae83825f5fdd867d0d85011bd6"
+    },
+    "补天平台": {
+        "补天中秋快闪！速来⏳10个漏洞轻松赢礼盒，限时掉落！": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509332&idx=1&sn=b5d3da30d85c5ca2e0488489bada74f2",
+        "星推厂商上线 | 限时奖金翻倍，速度冲！": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509332&idx=2&sn=5cc22c4a59aeafccdd4ecc6ab689a0ac"
+    },
+    "默安科技": {
+        "多领域上榜《2025年中国网络安全市场全景图》 默安科技用AI为安全注入“智”动力": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501255&idx=1&sn=53fba4cf369e1f5b958cb3f6acb1305f"
+    },
+    "VAADATA – Ethical Hacking Services": {
+        "What is CRLF Injection? Exploitations and Security Tips": "https://www.vaadata.com/blog/what-is-crlf-injection-exploitations-and-security-tips/"
+    },
+    "情报分析师": {
+        "菲律宾吕宋海峡新军基地启用，需警惕美菲军事合作升级": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562218&idx=1&sn=3575bd8ef90883461779edc9d60565d4",
+        "印尼抗Y风波与中印尼关系：背景动因、外交应对及情报预警启示": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562218&idx=2&sn=53d67fe0b1f9abe8ce3513ffcc007922"
+    },
+    "国家互联网应急中心CNCERT": {
+        "网络安全信息与动态周报2025年第36期（9月1日-9月7日）": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500370&idx=1&sn=90725852a7a3d2430b58ec3eb950ea1a"
+    },
+    "安全圈": {
+        "【安全圈】红海海底光缆断裂致微软Azure服务延迟激增": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071636&idx=1&sn=f56c00ea477c427ca1a7d7afbab64189",
+        "【安全圈】微软在文件资源管理器中引入全新 AI 功能": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071636&idx=2&sn=ef17158c2827c0b921c9d2e120765c75",
+        "【安全圈】Sophos无线AP曝高危漏洞": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071636&idx=3&sn=6ea8b60ef7c7e99ad37f8ddfd4f3f9bf",
+        "【安全圈】微软Office被曝高危漏洞：可远程执行恶意代码": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071636&idx=4&sn=aa84de58c5eab703fb2d2ced31a97af3"
+    },
+    "青衣十三楼飞花堂": {
+        "猫抓插件应用一例": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488606&idx=1&sn=87feccf566432d58e10ef6532df3ce21"
+    },
+    "奇安信 CERT": {
+        "微软9月补丁日多个产品安全漏洞风险通告：7个紧急漏洞、7个重要漏洞": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503926&idx=1&sn=5c026d832d6bc217ce4a7b5fcd027788"
+    },
+    "深信服千里目安全技术中心": {
+        "微软补丁日安全通告 | 9月份": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524696&idx=1&sn=26ef7d2d397b7aef6c5cde701b9ea9b4",
+        "网络安全信息与动态周报2025年第36期（9月1日-9月7日）": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524696&idx=2&sn=e788dbf451e22b86dd11cba9e589cffb"
+    },
+    "网安杂谈": {
+        "【2026合作伙伴巡礼】中科链安：新型虚拟币犯罪多维度实战化打击治理先锋": "https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889773&idx=1&sn=763bca41f42ace58979ea97730d22a5f"
+    },
+    "信息安全国家工程研究中心": {
+        "9.10教师节 | 金钥铸盾育桃李，匠心守护长城固": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247500905&idx=1&sn=02aae0a6d60adb07ff2dc875dc47383f"
+    },
+    "慢雾科技": {
+        "慢雾(SlowMist) 发布《稳定币反洗钱与合规路径技术研究报告》": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503205&idx=1&sn=44bbc767786aa1c58b0b71d1240a433b"
+    },
+    "墨菲安全": {
+        "NPM仓库超大规模劫持投毒仍在持续，企业应警惕大规模攻击": "https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488223&idx=1&sn=e6a5e472a97214abca1dcac50dfb1f76"
+    },
+    "阿里安全响应中心": {
+        "双十一安全保卫战｜淘天电商反爬专项": "https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998055&idx=1&sn=2340b0bc98c1e2bd2799b394dad4d904"
+    },
+    "安全牛": {
+        "7个数字身份系统安全能力升级的必要性": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138638&idx=1&sn=972ef19345370c79227db2170757e8a7",
+        "突发！美国FCC宣布撤销中国信通院等多家我国机构测试认证许可；第九届“强网杯”全国网络安全挑战赛正式启动 | 牛览": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138638&idx=2&sn=fc540ee4be71857d0f4cf3612311260b"
+    },
+    "CNVD漏洞平台": {
+        "Microsoft发布2025年9月安全更新": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496295&idx=1&sn=8a2e7cf0999da238363e4b5b00155a7e"
+    },
+    "M01N Team": {
+        "HexStrike深度剖析：AI渗透的喧嚣与现实": "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494408&idx=1&sn=75d803b630da3e6d4480fecf99c6d438"
+    },
+    "表图": {
+        "网络安全行业需要更少的产品，更好的产品": "https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484830&idx=1&sn=5475a73437a0baaa8fb66bf7e32b1fa3"
+    },
+    "字节跳动技术团队": {
+        "字节跳动论文入选 ACM SIGCOMM'25 | 基于 WebRTC 的大规模直播: 助推直播渗透率与观播时长显著增长": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516613&idx=1&sn=e6bc1d99e2493b870da2494bd04645ef"
+    },
+    "雷神众测": {
+        "雷神众测漏洞周报2025.9.1-2025.9.7": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503544&idx=1&sn=0d58c30570367608d168ba1a4c35a51f"
+    },
+    "est の 输入 输出和出入": {
+        "disqus已卸载，手搓了套blog评论系统 - req4cmt": "https://blog.est.im/2025/stdout-07"
+    },
+    "卢昌海个人主页": {
+        "最新微博：2025 年 9 月 10 日": "https://www.changhai.org/articles/miscellaneous/blog/202509.php#latest"
+    },
+    "信安之路": {
+        "基础 | 突破内网拿到主机权限后的第一件事儿": "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500166&idx=1&sn=3bd9ec52081af0a3f08ae5f8dce9bc50"
+    },
+    "嘶吼专业版": {
+        "黑客借助HexStrike-AI工具可快速利用新型漏洞": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584550&idx=1&sn=a123655dde31f91bb09a603de668234d",
+        "TP-Link确认路由器存在未修复零日漏洞": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584550&idx=2&sn=30f0b46bb6738c8c47a83ad35b7630de"
+    },
+    "网安国际": {
+        "InForSec祝各位老师节日快乐！": "https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652317960&idx=1&sn=01e7fb6634aba404c699ea7b2de38637"
+    },
+    "极道": {
+        "开源方案实现墨水屏75Hz动态流畅显示，护眼设备迎来革新": "https://www.jdon.com/81595-epaper-FPGA-75Hz.html",
+        "好消息是人能活到150岁；坏消息是活不过150岁": "https://www.jdon.com/81594-150-age.html",
+        "硅谷山洞人惊现！Claude Code宕机，原始码农钻木取代码": "https://www.jdon.com/81593-AI-Claude-Code-down.html",
+        "六大Python可视化神器终极对决：看完这篇不再选择困难": "https://www.jdon.com/81592-6-python-visualization.html",
+        "端粒酶mRNA减少了DNA损伤，逆转了血管细胞衰老": "https://www.jdon.com/81591-mRNA-SIRT1-hTERT.html",
+        "甲骨文股价一飞冲天，背后是AI与数据工程的核动力": "https://www.jdon.com/81590-oracle-stock-ai-data.html",
+        "手机直连星链：马斯克保证2年手机全球随时随地刷剧": "https://www.jdon.com/81589-mobile-Direct-to-Cell.html",
+        "基因编辑干细胞注入老年猴脑，成功逆转衰老进程": "https://www.jdon.com/81588-SRC-FOXO3-age.html"
+    },
+    "TecHug": {
+        "苹果设备内存安全的完整愿景：内存完整性强化": "https://www.techug.com/post/a-complete-vision-for-memory-safety-in-apple-devices/"
+    },
+    "夜行人": {
+        "娱乐至死": "http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/amusing-ourselves-to-death/"
+    },
+    "维基萌": {
+        "昨天让 AI 以代理模式写代码": "https://www.wikimoe.com/post/t2clabnn"
+    },
+    "61’s life": {
+        "20250910": "https://61.life/2025/0910"
+    },
+    "MacTalk-池建强的随想录": {
+        "Claude 这条路在中国企业这里彻底断掉了": "https://macshuo.com/?p=1980"
+    },
+    "azhuge233's": {
+        "服务器监控平台 Beszel 自托管": "https://azhuge233.com/%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%9b%91%e6%8e%a7%e5%b9%b3%e5%8f%b0-beszel-%e8%87%aa%e6%89%98%e7%ae%a1/"
+    },
+    "游研社": {
+        "为什么《丝之歌》会成为一款如此「极端」的游戏？": "https://www.yystv.cn/p/13174"
+    },
+    "Home - Space Looming": {
+        "写给编程小白看的 Vibe Debugging 注意事项（1）": "https://www.gtdstudy.com/posts/vibe-debugging-tips-for-beginners-1/"
+    },
+    "BMPI": {
+        "我的AI投资助手": "https://www.bmpi.dev/self/my-invest-pilot/"
+    },
+    "icebreaker": {
+        "tailwindcss 究竟比 unocss 快多少？": "https://icebreaker.top/articles/2025/9/10-tailwindcss-vs-unocss"
+    },
+    "木鸟杂记": {
+        "深入理解大模型 1：Transformer，大模型的基石": "https://www.qtmuniao.com/2025/09/10/llm-1-transformer/"
+    },
+    "Elmagnifico's Blog": {
+        "WIFI模块ARP刷新问题": "https://elmagnifico.tech/2025/09/11/ARP/"
+    },
+    "运维咖啡吧": {
+        "久违的暑假｜沿海自驾DAY30 - 隆江": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day30-jieyang-huilai-longjiang.html"
+    },
+    "网安寻路人": {
+        "域外个人信息匿名化与假名化界定综述": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247507643&idx=1&sn=2e68c2492c1f617f86516bb7933878f9"
+    },
+    "工劳小报｜工劳快讯": {
+        "教育行业乱象衰退并存，社保新规加压中小企业｜工劳小报 #68 新闻刊": "https://feed.laborinfocn7.com/issue68-news/"
+    }
+}
